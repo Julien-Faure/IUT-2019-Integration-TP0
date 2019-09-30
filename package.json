@@ -4,7 +4,7 @@
   "description": "EXERCICE 1 du TP0 d'intégration (30/09/2019)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"It Works Already\" && exit 1"
   },
   "repository": {
     "type": "git",
